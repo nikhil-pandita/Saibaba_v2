@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Saibabaxd</string>
+    <string name="title_activity_amapss">Map</string>
+    <string name="urltext"><a href="http://www.4liontechosolutions.com/">4Lion Solutions</a></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_media_player">URL Media Player</string>
+    <string name="loading">Loading...</string>
+    <string name="file_not_found">File not found</string>
+
+</resources>
